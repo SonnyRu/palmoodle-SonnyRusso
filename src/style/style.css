@@ -1,0 +1,51 @@
+a {
+    border: 5px;
+    border-color: #42E7D6;
+    border-radius: 50px;
+}
+
+#navheader {
+    background-color: #b730c4 !important;
+}
+
+#titre_1 {
+    color: white;
+}
+
+.card-header {
+    background-color: #00eaff !important;
+}
+
+.card-header label {
+    color: #b730c4 !important;
+}
+
+#titre-sondage {
+    background-color: #b730c4 !important;
+    border-radius: 0% !important;
+}
+
+#titre-sondage label {
+    color: #00eaff !important;
+    align-items: center !important;
+}
+
+#connexion-button, #button-connecter {
+    text-decoration: none;
+    text-transform: none;
+    color: #00eaff !important;
+    background-color: rgb(0, 0, 0, 0);
+    border-color: #00eaff;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 9px;
+}
+
+#connexion-button:hover,
+#button-connecter:hover {
+    text-decoration: none;
+    text-transform: none;
+    color: #b730c4 !important;
+    background-color: #00eaff;
+    transition: 0.5s;
+}   
